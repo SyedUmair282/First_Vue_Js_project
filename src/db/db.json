@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "umair",
+      "email": "umair@gmail.com",
+      "password": "umair123",
+      "id": 1
+    },
+    {
+      "name": "khan",
+      "email": "khan123@gmail.com",
+      "password": "khan123",
+      "id": 2
+    },
+    {
+      "name": "ali",
+      "email": "ali123@gmail.com",
+      "password": "ali123",
+      "id": 3
+    },
+    {
+      "name": "Sam",
+      "email": "Sam@gmail.com",
+      "password": "sam123",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Kabab jees",
+      "address": "DHA phase 5 karachi.",
+      "contact": "111-222-333",
+      "id": 1
+    },
+    {
+      "name": "Mcdonalds",
+      "address": "Askari phase 1 karachi.",
+      "contact": "021-999999999",
+      "id": 2
+    },
+    {
+      "name": "Al Basit Restaurant",
+      "address": "Near malir tanki saudabad karachi.",
+      "contact": "123-456-789",
+      "id": 5
+    }
+  ]
+}
